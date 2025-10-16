@@ -24,25 +24,25 @@ Users can browse songs and filter playlists by genre such as *Gujarati, Folk, El
 
 ## 📂 Folder Structure
 
-music-playlist/
+music-playlist/ <br>
 │
-├── public/
-│ └── index.html
+├── public/<br>
+│ └── index.html<br>
 │
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── SongCard.jsx
-│ │ └── GenreFilter.jsx
-│ ├── data/
-│ │ └── songs.js
-│ ├── App.jsx
-│ ├── index.js
-│ └── App.css
+├── src/<br>
+│ ├── components/<br>
+│ │ ├── Navbar.jsx<br>
+│ │ ├── SongCard.jsx<br>
+│ │ └── GenreFilter.jsx<br>
+│ ├── data/<br>
+│ │ └── songs.js<br>
+│ ├── App.jsx<br>
+│ ├── index.js<br>
+│ └── App.css<br>
 │
-├── package.json
-├── README.md
-└── requirements.txt
+├── package.json<br>
+├── README.md<br>
+└── requirements.txt<br>
 
 
 ---
